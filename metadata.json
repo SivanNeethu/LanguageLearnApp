@@ -1,0 +1,6 @@
+{
+  "name": "LinguaKids",
+  "description": "Offline CBSE Hindi, Kannada & Malayalam learning app for Class 1–4 with English transliteration, pronunciation audio, worksheets, reward stickers, and 300 multi-language stories covering motivation, gratitude, respect, confidence, and values.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
